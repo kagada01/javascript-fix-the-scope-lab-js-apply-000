@@ -5,6 +5,7 @@
 var myDog = "dog"
 var yourCat = "cat"
 const n = Math.floor(Math.random() * 1000);
+function funk()
 
 function myAnimal() {
     return myDog
@@ -19,7 +20,7 @@ function add2(n) {
 }
 
 function funkyFunction() {
-  return yourAnimal()
+  return funk()
 }
 
   // Feel free to move things around!
