@@ -13,6 +13,10 @@ function yourAnimal() {
     return yourCat
 }
 
+function add2(n) {
+  
+}
+
 //function yourAnimal(myAnimal) {
   //return yourAnimal
 
