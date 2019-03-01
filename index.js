@@ -20,7 +20,7 @@ function add2(n) {
 }
 
 function funkyFunction() {
-  return funk()
+ 
 }
 
   // Feel free to move things around!
