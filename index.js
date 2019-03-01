@@ -14,7 +14,7 @@ function yourAnimal() {
     return yourCat
 }
 
-function add2() {
+function add2(n) {
   return n + 2
 }
 
