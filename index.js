@@ -9,6 +9,10 @@ function myAnimal() {
     return myDog
 }
 
+function yourAnimalAnimal() {
+    return yourCat
+}
+
 //function yourAnimal(myAnimal) {
   //return yourAnimal
 
