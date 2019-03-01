@@ -19,7 +19,7 @@ function add2(n) {
 }
 
 function funkyFunction() {
-  return "function"
+  function function()
 }
 
   // Feel free to move things around!
