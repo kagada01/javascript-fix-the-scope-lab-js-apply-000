@@ -9,7 +9,7 @@ function myAnimal() {
     return myDog
 }
 
-function yourAnimalAnimal() {
+function yourAnimal() {
     return yourCat
 }
 
