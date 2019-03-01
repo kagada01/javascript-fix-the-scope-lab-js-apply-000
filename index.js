@@ -19,7 +19,7 @@ function add2(n) {
 }
 
 function funkyFunction() {
-  return yourCat()
+  return yourAnimal(); 
 }
 
   // Feel free to move things around!
