@@ -18,6 +18,10 @@ function add2(n) {
   return n + 2
 }
 
+function funkyFunction() {
+  
+}
+
 //function yourAnimal(myAnimal) {
   //return yourAnimal
 
