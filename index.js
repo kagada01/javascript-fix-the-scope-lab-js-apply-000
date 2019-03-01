@@ -5,7 +5,8 @@
 var myDog = "dog"
 var yourCat = "cat"
 const n = Math.floor(Math.random() * 1000);
-function funkTown()
+function funkTown() {
+}
 
 function myAnimal() {
     return myDog
