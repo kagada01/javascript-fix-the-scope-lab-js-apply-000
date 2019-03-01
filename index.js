@@ -22,10 +22,6 @@ function funkyFunction() {
   
 }
 
-//function yourAnimal(myAnimal) {
-  //return yourAnimal
-
-
   // Feel free to move things around!
 
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
