@@ -23,6 +23,10 @@ function funkyFunction() {
   return funkTown
 }
 
+function theFunk() {
+  
+}
+
   // Feel free to move things around!
 
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
