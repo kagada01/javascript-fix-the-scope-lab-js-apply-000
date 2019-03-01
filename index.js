@@ -19,7 +19,8 @@ function add2(n) {
 }
 
 function funkyFunction() {
-  return yourAnimal()
+  function newFunction() {
+  }
 }
 
   // Feel free to move things around!
